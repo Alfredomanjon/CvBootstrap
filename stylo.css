@@ -102,3 +102,11 @@
 .final{
     background-color: #F8F8F8;
 }
+.textfinal{
+    margin:0px;
+	vertical-align:text-bottom;
+	width: 200px;
+	height: auto ! important;
+	height: 474px;
+}
+
