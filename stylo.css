@@ -15,13 +15,23 @@
     padding: 12%
 }
 .mb-1{
-    color:#4B4854;
+    color: #ffffff;
+    text-shadow:
+    -1px -1px 0 #000,  
+     1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
 }
 .mb-5{
-   color: #4B4854; 
+    color: #ffffff;
+    text-shadow:
+    -1px -1px 0 #000,  
+     1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
 }
 .navbar{
-    margin-top: 5px;
+    margin-top: 10px;
     margin-right: 10px;
     margin-left: 10px;
 }
@@ -47,7 +57,7 @@
 .Conocimiento{
     text-align: center;
     margin-top: 100px;
-    margin-bottom: 100px;
+    margin-bottom: 20px;
 }
 .Conocimiento1{
     text-align: center;
