@@ -20,6 +20,7 @@
 .mb-5{
    color: black; 
 }
+
 .bienvenida{
     background-image: url("imagenes/proyectos1.jpg");
     background-position: center center;
@@ -68,10 +69,8 @@
     margin-bottom:40px;
 }
 .presentacion{
-    margin-top: 10%;
     text-align: center;
     background-color: #F8F8F8;
-    margin: 7%;
 }
 .centro {
     margin-top: 17%;
