@@ -14,16 +14,26 @@
 .espacio4{
     padding: 12%
 }
+.mb-1{
+    color:black;
+}
+.mb-5{
+   color: black; 
+}
 .bienvenida{
     background-image: url("imagenes/proyectos1.jpg");
     background-position: center center;
     color: rgb(255, 255, 255);
 }
+.imagenMI{
+    margin-right:0;
+    text-align: center;
+}
 .row{
   padding: 4%;
   margin: 3%;
   text-align: center;
-  
+  grid-column-gap: 10px;
 
 }
 .Conocimiento{
@@ -76,6 +86,7 @@
     background-color: #F8F8F8;
     margin-top: 20px;
     margin-bottom: 20px;
+    
 }
 .progress{
     margin-right :15%;
@@ -83,8 +94,8 @@
     
 }
 .imacentral{
-    text-align: center;
-    margin:auto;
+    margin:0;
+    padding-top: 20%;
 }
 .Experiencia{
     text-align: center;
@@ -109,4 +120,8 @@
 	height: auto ! important;
 	height: 474px;
 }
+.card{
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
 
