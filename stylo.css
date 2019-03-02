@@ -15,16 +15,22 @@
     padding: 12%
 }
 .mb-1{
-    color:black;
+    color:#4B4854;
 }
 .mb-5{
-   color: black; 
+   color: #4B4854; 
+}
+.navbar{
+    margin-top: 5px;
+    margin-right: 10px;
+    margin-left: 10px;
 }
 
 .bienvenida{
     background-image: url("imagenes/proyectos1.jpg");
     background-position: center center;
     color: rgb(255, 255, 255);
+    padding-top: 30px;
 }
 .imagenMI{
     margin-right:0;
@@ -35,6 +41,7 @@
   margin: 3%;
   text-align: center;
   grid-column-gap: 10px;
+  
 
 }
 .Conocimiento{
@@ -93,7 +100,8 @@
     
 }
 .imacentral{
-    margin:0;
+    margin:0%;
+    padding: 0%;
     padding-top: 30px;
     text-align: center;
 }
@@ -124,4 +132,13 @@
     margin-bottom: 10px;
     margin-top: 10px;
   }
+.Titulos{
+    font-size: 260%;
+}
+.phone{
+    margin-top: 30px;
+}
+.mail2{
+    margin-top: 30px;
+}
 
