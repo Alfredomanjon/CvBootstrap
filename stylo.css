@@ -15,20 +15,26 @@
     padding: 12%
 }
 .mb-1{
+    color:#504F4F;
+    /*
     color: #ffffff;
     text-shadow:
     -1px -1px 0 #000,  
      1px -1px 0 #000,
     -1px 1px 0 #000,
      1px 1px 0 #000;
+     */
 }
 .mb-5{
+    color:#504F4F;
+    /*
     color: #ffffff;
     text-shadow:
     -1px -1px 0 #000,  
      1px -1px 0 #000,
     -1px 1px 0 #000,
      1px 1px 0 #000;
+     */
 }
 .navbar{
     margin-top: 10px;
@@ -150,5 +156,8 @@
 }
 .mail2{
     margin-top: 30px;
+}
+.mail3{
+    padding-bottom: 4px;
 }
 
